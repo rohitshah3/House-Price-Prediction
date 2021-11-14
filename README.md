@@ -1,7 +1,6 @@
 # House-Price-Prediction
 The project was to develop an algorithm that can predict housing prices based on certain input features such as physical conditions, concept and
-location. 
-Algorithm Used: Linear & Multivariate Regression
+location using Linear & Multivariate Regression Algorithms
 
 ### Tools used:
 - Python3 - Pandas, Numpy, Seaborn, Matplotlib
