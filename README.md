@@ -6,5 +6,5 @@ location using Linear & Multivariate Regression Algorithms
 - Python3 - Pandas, Numpy, Seaborn, Matplotlib
 
 ### Usage: 
-- Developer can determine the selling price of a house and can help the customer to arrange the right time to purchase a house
+- House Developer can determine the selling price of a house.
 - Predicted house prices are expected to help people who plan to buy a house so they can know the price range in the future, then they can plan their finance well.
