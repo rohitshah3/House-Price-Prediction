@@ -1,6 +1,6 @@
 # House-Price-Prediction
 The project was to develop an machine learning model that can predict housing prices based on certain input features such as physical conditions, concept and
-location using Linear & Multivariate Regression Algorithms
+location using Linear & Multivariate Regression Algorithms.
 
 ### Tools used:
 - Python3 - Pandas, Numpy, Seaborn, Matplotlib
